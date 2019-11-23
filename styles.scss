@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #11161b;
+    text-shadow: 0 0 10px #00ccff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#text{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size:4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    opacity: .7;
+    transition: all .3s;
+}
